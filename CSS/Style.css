@@ -1,1 +1,29 @@
 
+body {
+    font-family: sans-serif;
+    background-color: bisque;
+    color: black;
+}
+[id] {
+  color: red;
+}
+
+h1 {
+  color: purple;
+}
+
+p {
+  color: darkred;
+}
+
+.highlight {
+    color: yellow;
+}
+
+#main-title {
+  color: darkblue;
+}
+
+nav a {
+    color: pink;
+}
