@@ -5,19 +5,19 @@ html {
     font-size: 1rem;
 }
 [id] {
-  color: red;
+  color: blue;
 }
 
 h1 {
-  color: purple;
+  color: orange;
 }
 
 p {
   color: darkred;
 }
 
-.highlight {
-    color: yellow;
+.bold {
+    font-weight: bold;
 }
 
 #main-title {
