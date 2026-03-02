@@ -34,11 +34,11 @@ main {
   width: 80%;
   margin: 2rem auto;
   padding: 1.5rem;
-  border: 1px gray;
+  border: 1px solid gray;
 }
 .parent-box {
   width: 200px;
-  border: 2px black;
+  border: 2px solid black;
   margin: 1rem 0;
 }
 
@@ -46,5 +46,5 @@ main {
   width: 100%;
   padding: 20px;
   background-color: blue;
-  border: 2px lightblue;
+  border: 2px solid lightblue;
 }
