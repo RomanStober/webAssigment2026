@@ -48,3 +48,13 @@ main {
   background-color: blue;
   border: 2px solid lightblue;
 }
+ol {
+margin: 1.5rem 0;
+padding-left: 2rem;
+border: 1px solid gray;
+}
+
+li {
+margin-bottom: 0.5rem;
+padding: 0.5rem;
+}
