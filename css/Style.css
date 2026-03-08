@@ -2,14 +2,32 @@
 box-sizing: border-box;
 }
 html {
-    font-family: sans-serif;
+    font-family: sans-serif, "Times New Roman";
     background-color: bisque;
     color: black;
     font-size: 1rem;
+    line-height: 1.5;
+}
+
+h1, h2, h3 {
+    font-family: sans-serif, georgia, monospace;
+    text-align: center;
+    color: black;
 }
 
 h1 {
-  color: orange;
+    color: lightblue;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 1rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
 }
 
 p {
