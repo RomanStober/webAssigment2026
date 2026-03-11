@@ -31,7 +31,7 @@ h3 {
 }
 
 p {
-  color: lightpurple;
+  color: purple;
   margin-bottom: 1rem;
   padding: 0.5rem;
   border-left: 4px solid black;
@@ -78,4 +78,13 @@ border: 1px solid gray;
 li {
 margin-bottom: 0.5rem;
 padding: 0.5rem;
+}
+
+nav a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+li:hover{
+    background-color: yellow;
 }
