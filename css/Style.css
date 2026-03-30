@@ -88,3 +88,20 @@ nav a:hover {
 li:hover{
     background-color: yellow;
 }
+
+.flex-layout {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.main-column {
+  flex: 2 1 600px;
+  min-width: 0;
+}
+
+.sidebar {
+  flex: 1 1 280px;
+  min-width: 0;
+} 
